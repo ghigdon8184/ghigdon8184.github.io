@@ -10,6 +10,15 @@
     
     <h1>Heading</h1>
     <p>Paragraph</p>
+  <h1 id="id1">Heading</h1>
   
+  <p class="bluev">Paragraph.</p>
+  
+  <p class="center">Paragraph.</p>
+  
+  <div class="bluev">
+    <h1>Heading</h1>
+    <p>Paragraph.</p>
+  </div>
   </body>
 </html>
