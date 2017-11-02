@@ -1,3 +1,25 @@
+h1 {
+  color:blue;
+  font-family: verdana;
+}
+
 p {
-  color:red;
+  color: red;
+}
+#i2 {
+  color:orange;
+  font-family: Arial;
+}
+.bluev {
+  color:blue;
+  font-family: verdana;
+}
+
+.center {
+  text-align: center;
+  color: red;
+}
+.bluev p {
+  color: blue;
+  font-family: Verdana;
 }
