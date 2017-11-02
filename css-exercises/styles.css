@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
 h1 {
   color:blue;
   font-family: verdana;
@@ -23,5 +26,7 @@ p {
   color: blue;
   font-family: Verdana;
 }
-
 <li><a href="/css-exercises/index.css">CSs-Index<a></li
+
+</body>
+</html>
